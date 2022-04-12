@@ -15,4 +15,12 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+## Screenshots
+<p>
+<img src="assets/ss1.png" width=300>
+<img src="assets/ss2.png" width=300>
+<img src="assets/ss3.png" width=300>
+<img src="assets/ss4.png" width=300>
+</p>
+
 <a href="https://pixlok.com/images/flutter-logo-png-image-free-download/">House photo created by Search png - www.pixlok.com</a>
